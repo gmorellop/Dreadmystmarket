@@ -20,6 +20,12 @@ This app is made to buy and sell items in a fast and clear way. Everything works
 * **Notifications:** Get alerts when you buy, sell, or when something important happens.
 * **Security:** Validations, clear rules, and code protection to keep everything running properly.
 
+
+
+[https://imgur.com/0eztHkR](https://i.imgur.com/0eztHkR.png)
+[https://imgur.com/ZhlEuf8](https://i.imgur.com/ZhlEuf8.png)
+[https://i.imgur.com/ErbRsJu.png](https://i.imgur.com/ErbRsJu.png)
+
 ________________ ESPAÑOL_____________________
 
 **Heey BRODAS!** 👋
