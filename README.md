@@ -22,9 +22,9 @@ This app is made to buy and sell items in a fast and clear way. Everything works
 
 
 
-[https://imgur.com/0eztHkR](https://i.imgur.com/0eztHkR.png)
-[https://imgur.com/ZhlEuf8](https://i.imgur.com/ZhlEuf8.png)
-[https://i.imgur.com/ErbRsJu.png](https://i.imgur.com/ErbRsJu.png)
+![https://imgur.com/0eztHkR](https://i.imgur.com/0eztHkR.png)
+![https://imgur.com/ZhlEuf8](https://i.imgur.com/ZhlEuf8.png)
+![https://i.imgur.com/ErbRsJu.png](https://i.imgur.com/ErbRsJu.png)
 
 ________________ ESPAÑOL_____________________
 
