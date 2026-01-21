@@ -15,25 +15,45 @@ The idea is basic: list, search, buy, and sell items, and slowly add more featur
 What can you do with BrodaMarket?
 
 Real-time marketplace: see changes instantly, no refreshing or waiting.
+
 ONLINE sellers and buyers: only items from people who are connected to the app are shown. If they’re not online, the item won’t appear. That way you know the seller is actually there.
+
 Item grouping: items with the same name are grouped into a single card, even if they have different stats. No hundreds of repeated items flooding the screen.
+
 Google Login: sign in with your Google account and you’re good to go.
+
 Languages: switch between Spanish and English by pressing the GB / ES button.
+
 Custom items: set up your items based on their real stats. If you get a drop with the same name but different stats, you can edit them in real time inside the app.
+
 Bulk discounts: offer discounts when selling multiple units.
+
 Buy Orders: post what you want to buy and let others sell you what you’re looking for.
+
 Full history: check all your purchases, sales, and prices whenever you want.
+
 Search filters: search by name, category, stats, and more.
+
 Notifications: the app notifies you when you buy, sell, or when something important happens.
+
 Warning system: 3 strikes before your account gets disabled.
+
 New items: added constantly.
+
 Quick search: from the main screen you can filter using the available boxes.
+
 Sale cancellation: sellers and buyers can cancel, and the item automatically goes back to the market.
+
 Online presence system for sellers and buyers.
+
 Queue system for specific moments.
+
 Clear sections: “My Items”, “Sales”, and “Purchases”.
+
 When clicking a sold or purchased item, the /w Name is automatically copied so you can whisper easily in-game.
+
 TRANS ID system: you can write it in chat so the buyer or seller knows exactly which transaction it is.
+
 And more stuff coming over time…
 
 FAQ
