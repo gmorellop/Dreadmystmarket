@@ -7,91 +7,171 @@ ______________ENGLISH__________
 Heey, BRODAS! 👋
 
 I’ve always liked buying and selling gems and items in DreadMyst, but like it happens to many of us, everything usually ended up being kind of chaotic: digging through chat messages, talking to a ton of different people, losing important conversations, etc.
+
 That’s where the idea came from. I needed something more organized, faster, and working in real time… so I decided to create this app for the peep.
 
-The app is made to keep buying and selling items simple and straightforward, no weird extra steps. Everything works in real time, and the interface is light, clean, and easy to use.
+BrodaMarket is built to keep buying and selling items simple and straightforward, with no weird extra steps. Everything works in real time, and the interface is light, clean, and easy to use.
+
 The idea is basic: list, search, buy, and sell items, and slowly add more features as they’re needed.
 
-What can you do with BrodaMarket?
+✨ Features
+🔥 Core Features
 
-Real-time marketplace: see changes instantly, no refreshing or waiting.
+Real-time marketplace
+See changes instantly, no refreshing or waiting.
 
-ONLINE sellers and buyers: only items from people who are connected to the app are shown. If they’re not online, the item won’t appear. That way you know the seller is actually there.
+ONLINE sellers and buyers
+Only items from users who are currently connected to the app are shown.
+If they’re not online, the item won’t appear—so you know the seller is actually there.
 
-Item grouping: items with the same name are grouped into a single card, even if they have different stats. No hundreds of repeated items flooding the screen.
+Item grouping
+Items with the same name are grouped into a single card, even if they have different stats.
+No hundreds of repeated items flooding the screen.
 
-Google Login: sign in with your Google account and you’re good to go.
+Google Login
+Sign in with your Google account and you’re good to go.
 
-Languages: switch between Spanish and English by pressing the GB / ES button.
+Languages
+Switch between Spanish and English using the GB / ES button.
 
-Custom items: set up your items based on their real stats. If you get a drop with the same name but different stats, you can edit them in real time inside the app.
+Custom items
+Set up your items based on their real stats.
+If you get a drop with the same name but different stats, you can edit them in real time inside the app.
 
-Bulk discounts: offer discounts when selling multiple units.
+Bulk discounts
+Offer discounts when selling multiple units.
 
-Buy Orders: post what you want to buy and let others sell you what you’re looking for.
+Buy Orders
+Post what you want to buy and let others sell you what you’re looking for.
 
-Full history: check all your purchases, sales, and prices whenever you want.
+Full history
+Check all your purchases, sales, and prices whenever you want.
 
-Search filters: search by name, category, stats, and more.
+Search filters
+Search by name, category, stats, and more.
 
-Notifications: the app notifies you when you buy, sell, or when something important happens.
+Notifications
+Get notified when you buy, sell, or when something important happens.
 
-Warning system: 3 strikes before your account gets disabled.
+Warning system
+3 strikes before your account gets disabled.
 
-New items: added constantly.
+New items
+Items are added constantly.
 
-Quick search: from the main screen you can filter using the available boxes.
+Quick search
+Filter items directly from the main screen using the available boxes.
 
-Sale cancellation: sellers and buyers can cancel, and the item automatically goes back to the market.
+Sale cancellation
+Sellers and buyers can cancel, and the item automatically goes back to the market.
 
-Online presence system for sellers and buyers.
+Online presence system
+See who’s online (sellers and buyers).
 
+Queue system
 Queue system for specific moments.
 
-Clear sections: “My Items”, “Sales”, and “Purchases”.
+Clear sections
 
-When clicking a sold or purchased item, the /w Name is automatically copied so you can whisper easily in-game.
+My Items
 
-TRANS ID system: you can write it in chat so the buyer or seller knows exactly which transaction it is.
+Sales
 
-And more stuff coming over time…
+Purchases
 
-FAQ
-How to sell?
+Quick whisper shortcut
+Clicking a sold or purchased item automatically copies
+/w Name so you can whisper easily in-game.
 
-If you want to sell your item, go to the “Sell” button. A search bar will appear, and you must always start typing with the first word of the item name.
+TRANS ID system
+Use the transaction ID in chat so buyers and sellers know exactly which transaction it is.
+
+More coming soon…
+New features will be added over time.
+
+❓ FAQ
+1️⃣ How to sell?
+
+If you want to sell your item, follow these steps:
+
+Click the “Sell” button.
+
+A search bar will appear.
+You must always start typing with the first word of the item name.
+
 Example:
+
 ✔ Correct: Greater Life Potion → type Greater
+
 ✖ Incorrect: starting with Potion
 
-If the item is in the database, you’ll be able to select it.
-If it has the same name but different stats, you can use the option “Different stats? Change them here”, edit the stats, add them, and press APPLY to save.
+If the item exists in the database, you’ll be able to select it.
 
-Then you choose your character (for now, it’s limited to one) and set the price.
-After that, you can add bulk discounts. The first box indicates from how many items the discount starts, and the next two are the discount percentage.
-Example: buying 5 or more, 5% discount.
-Press Publish and the item goes live in real time.
+If the item has the same name but different stats, use the option:
+“Different stats? Change them here”
 
-What is a Buyer Order?
-It’s basically the same as selling, but in this case you post an item that you want to buy, so others can offer it to you.
+Edit the stats
 
-Where can I check my sales and purchases?
-Every time you buy or sell something, you’ll get a notification in the Sales and Purchases buttons.
+Add them
 
-Can I zoom in the app?
-Yes. Hold CTRL + mouse wheel.
+Press APPLY to save
 
-Can I use more than one character?
-For now, only one is allowed. Later on, I can enable multiple characters if needed.
+Choose your character
+(for now, limited to one).
 
-Are you the broda who buys and sells gems?
-Yes 😄 You might have seen me in general chat buying and selling. I made this app for the whole peep.
+Set the price.
 
-Does it cost a lot to maintain the app?
-The app is 100% free and non-profit, but any support helps keep the servers running and keep improving this market I made for you all with all my ❤️
-If you want to support, you can do it through my Ko-fi link.
+(Optional) Add bulk discounts:
+
+First box: minimum quantity
+
+Next boxes: discount percentage
+Example: buy 5 or more → 5% discount
+
+Press Publish
+Your item goes live in real time.
+
+2️⃣ What is a Buyer Order?
+
+A Buyer Order works almost the same as selling, but instead of listing an item to sell:
+
+You post an item you want to buy
+
+Other players can then offer it to you
+
+3️⃣ Where can I check my sales and purchases?
+
+Every time you buy or sell something, you’ll receive a notification
+
+You can check everything inside:
+
+Sales
+
+Purchases
+
+4️⃣ Can I zoom in the app?
+
+Yes 👍
+Hold CTRL + mouse wheel.
+
+5️⃣ Can I use more than one character?
+
+For now, only one character is allowed
+
+Multiple characters may be enabled later if needed
+
+6️⃣ Are you the broda who buys and sells gems?
+
+Yes 😄
+You might have seen me in general chat buying and selling.
+I made this app for the whole peep.
+
+7️⃣ Does it cost a lot to maintain the app?
+
+The app is 100% free and non-profit, but any support helps keep the servers running and allows me to keep improving this market I made for you all with all my ❤️
+
+If you want to support the project, you can do it through my Ko-fi link.
 Thank you for real, my broda.
-
 
 ![https://imgur.com/0eztHkR](https://i.imgur.com/0eztHkR.png)
 ![https://imgur.com/ZhlEuf8](https://i.imgur.com/ZhlEuf8.png)
