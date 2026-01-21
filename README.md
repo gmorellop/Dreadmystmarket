@@ -4,174 +4,178 @@
 
 ______________ENGLISH__________
 
-Heey, BRODAS! 👋
+Perfecto 👍
+Aplico **exactamente ese criterio de Markdown para README de GitHub** y te dejo el contenido **ordenado, navegable y claro**, usando **encabezados, listas, negritas y saltos de línea**, tal como GitHub lo interpreta.
 
-I’ve always liked buying and selling gems and items in DreadMyst, but like it happens to many of us, everything usually ended up being kind of chaotic: digging through chat messages, talking to a ton of different people, losing important conversations, etc.
+---
+
+# 🛒 BrodaMarket
+
+**Heey, BRODAS!** 👋
+
+I’ve always liked buying and selling gems and items in **DreadMyst**, but like it happens to many of us, everything usually ended up being kind of chaotic: digging through chat messages, talking to a ton of different people, losing important conversations, etc.
 
 That’s where the idea came from. I needed something more organized, faster, and working in real time… so I decided to create this app for the peep.
 
-BrodaMarket is built to keep buying and selling items simple and straightforward, with no weird extra steps. Everything works in real time, and the interface is light, clean, and easy to use.
+BrodaMarket is built to keep buying and selling items **simple and straightforward**, with no weird extra steps. Everything works in real time, and the interface is light, clean, and easy to use.
 
-The idea is basic: list, search, buy, and sell items, and slowly add more features as they’re needed.
+The idea is basic: **list, search, buy, and sell items**, and slowly add more features as they’re needed.
 
-✨ Features
-🔥 Core Features
+---
 
-Real-time marketplace
-See changes instantly, no refreshing or waiting.
+## ✨ Features
 
-ONLINE sellers and buyers
-Only items from users who are currently connected to the app are shown.
-If they’re not online, the item won’t appear—so you know the seller is actually there.
+### 🔥 Core Features
 
-Item grouping
-Items with the same name are grouped into a single card, even if they have different stats.
-No hundreds of repeated items flooding the screen.
+1. **Real-time marketplace**
+   See changes instantly, no refreshing or waiting.
 
-Google Login
-Sign in with your Google account and you’re good to go.
+2. **ONLINE sellers and buyers**
+   Only items from users who are currently connected to the app are shown.
+   If they’re not online, the item won’t appear.
 
-Languages
-Switch between Spanish and English using the GB / ES button.
+3. **Item grouping**
+   Items with the same name are grouped into a single card, even if they have different stats.
 
-Custom items
-Set up your items based on their real stats.
-If you get a drop with the same name but different stats, you can edit them in real time inside the app.
+4. **Google Login**
+   Sign in with your Google account and you’re good to go.
 
-Bulk discounts
-Offer discounts when selling multiple units.
+5. **Languages**
+   Switch between **Spanish** and **English** using the **GB / ES** button.
 
-Buy Orders
-Post what you want to buy and let others sell you what you’re looking for.
+6. **Custom items**
+   Edit item stats in real time if the item has the same name but different attributes.
 
-Full history
-Check all your purchases, sales, and prices whenever you want.
+7. **Bulk discounts**
+   Offer discounts when selling multiple units.
 
-Search filters
-Search by name, category, stats, and more.
+8. **Buy Orders**
+   Post what you want to buy and let others sell you what you’re looking for.
 
-Notifications
-Get notified when you buy, sell, or when something important happens.
+9. **Full history**
+   Review all purchases, sales, and prices anytime.
 
-Warning system
-3 strikes before your account gets disabled.
+10. **Search filters**
+    Filter by name, category, stats, and more.
 
-New items
-Items are added constantly.
+11. **Notifications**
+    Get notified when buying, selling, or when something important happens.
 
-Quick search
-Filter items directly from the main screen using the available boxes.
+12. **Warning system**
+    3 strikes before the account is disabled.
 
-Sale cancellation
-Sellers and buyers can cancel, and the item automatically goes back to the market.
+13. **New items**
+    Items are added constantly.
 
-Online presence system
-See who’s online (sellers and buyers).
+14. **Quick search**
+    Filter directly from the main screen.
 
-Queue system
-Queue system for specific moments.
+15. **Sale cancellation**
+    Cancel sales or buy orders and return items to the market.
 
-Clear sections
+16. **Online presence system**
+    See which sellers and buyers are online.
 
-My Items
+17. **Queue system**
+    Queue handling for specific moments.
 
-Sales
+18. **Clear sections**
 
-Purchases
+    * **My Items**
+    * **Sales**
+    * **Purchases**
 
-Quick whisper shortcut
-Clicking a sold or purchased item automatically copies
-/w Name so you can whisper easily in-game.
+19. **Quick whisper shortcut**
+    Clicking an item copies `/w Name` automatically.
 
-TRANS ID system
-Use the transaction ID in chat so buyers and sellers know exactly which transaction it is.
+20. **TRANS ID system**
+    Use transaction IDs in chat to identify deals clearly.
 
-More coming soon…
-New features will be added over time.
+21. **More coming soon…**
 
-❓ FAQ
-1️⃣ How to sell?
+---
 
-If you want to sell your item, follow these steps:
+## ❓ FAQ
 
-Click the “Sell” button.
+### 1️⃣ How to sell?
 
-A search bar will appear.
-You must always start typing with the first word of the item name.
+1. Click **Sell**.
 
-Example:
+2. Type using the **first word of the item name**.
 
-✔ Correct: Greater Life Potion → type Greater
+   **Example:**
 
-✖ Incorrect: starting with Potion
+   * ✔ `Greater Life Potion` → type **Greater**
+   * ✖ Starting with **Potion**
 
-If the item exists in the database, you’ll be able to select it.
+3. Select the item from the database.
 
-If the item has the same name but different stats, use the option:
-“Different stats? Change them here”
+4. If stats differ, click **“Different stats? Change them here”**, edit and press **APPLY**.
 
-Edit the stats
+5. Choose your character *(currently limited to one)*.
 
-Add them
+6. Set the price.
 
-Press APPLY to save
+7. *(Optional)* Add **bulk discounts**:
 
-Choose your character
-(for now, limited to one).
+   * Minimum quantity
+   * Discount percentage
+     *Example: 5+ units → 5% discount*
 
-Set the price.
+8. Click **Publish**.
 
-(Optional) Add bulk discounts:
+---
 
-First box: minimum quantity
+### 2️⃣ What is a Buyer Order?
 
-Next boxes: discount percentage
-Example: buy 5 or more → 5% discount
+* Post an item you **want to buy**
+* Other players can offer that item to you
 
-Press Publish
-Your item goes live in real time.
+---
 
-2️⃣ What is a Buyer Order?
+### 3️⃣ Where can I check my sales and purchases?
 
-A Buyer Order works almost the same as selling, but instead of listing an item to sell:
+* Notifications appear in:
 
-You post an item you want to buy
+  * **Sales**
+  * **Purchases**
 
-Other players can then offer it to you
+---
 
-3️⃣ Where can I check my sales and purchases?
+### 4️⃣ Can I zoom in the app?
 
-Every time you buy or sell something, you’ll receive a notification
+* Hold **CTRL + mouse wheel**
 
-You can check everything inside:
+---
 
-Sales
+### 5️⃣ Can I use more than one character?
 
-Purchases
+* Currently **one character only**
+* Multiple characters may be added later
 
-4️⃣ Can I zoom in the app?
+---
 
-Yes 👍
-Hold CTRL + mouse wheel.
+### 6️⃣ Are you the broda who buys and sells gems?
 
-5️⃣ Can I use more than one character?
+**Yes 😄**
+You may have seen me in general chat.
+This app was made for the whole peep.
 
-For now, only one character is allowed
+---
 
-Multiple characters may be enabled later if needed
+### 7️⃣ Does it cost a lot to maintain the app?
 
-6️⃣ Are you the broda who buys and sells gems?
+* **100% free**
+* **Non-profit**
 
-Yes 😄
-You might have seen me in general chat buying and selling.
-I made this app for the whole peep.
+Any support helps keep servers running and improve the project ❤️
+You can support via **Ko-fi**.
 
-7️⃣ Does it cost a lot to maintain the app?
+**Thank you for real, my broda.**
 
-The app is 100% free and non-profit, but any support helps keep the servers running and allows me to keep improving this market I made for you all with all my ❤️
+---
+ arriba para visitantes rápidos 👌
 
-If you want to support the project, you can do it through my Ko-fi link.
-Thank you for real, my broda.
 
 ![https://imgur.com/0eztHkR](https://i.imgur.com/0eztHkR.png)
 ![https://imgur.com/ZhlEuf8](https://i.imgur.com/ZhlEuf8.png)
