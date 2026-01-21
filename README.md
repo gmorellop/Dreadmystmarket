@@ -182,72 +182,189 @@ You can support via **Ko-fi**.
 ![https://i.imgur.com/ErbRsJu.png](https://i.imgur.com/ErbRsJu.png)
 
 ________________ ESPAÑOL_____________________
+Perfecto 👌
+Aquí tienes **todo el contenido estructurado en español**, **aplicando Markdown para README de GitHub**, con encabezados, listas, negritas y saltos de línea claros, tal como GitHub lo renderiza.
 
-Heey, BRODAS! 👋
+---
 
-Siempre me ha gustado comprar y vender gemas e ítems en DreadMyst, pero como a muchos nos pasa, todo terminaba siendo medio caótico: buscar mensajes en el chat, hablar con mil personas distintas, perder conversaciones importantes, etc.
+# 🛒 BrodaMarket
+
+**Heey, BRODAS!** 👋
+
+Siempre me ha gustado comprar y vender gemas e ítems en **DreadMyst**, pero como a muchos nos pasa, todo terminaba siendo medio caótico: buscar mensajes en el chat, hablar con mil personas distintas, perder conversaciones importantes, etc.
+
 De ahí nació la idea. Necesitaba algo más ordenado, más rápido y que funcionara en tiempo real… así que decidí crear esta app para la peep.
 
-La app está pensada para que comprar y vender ítems sea algo simple y directo, sin vueltas raras. Todo funciona en tiempo real y la interfaz es liviana, clara y fácil de usar.
-La idea es básica: listar, buscar, comprar y vender ítems, y poco a poco ir sumando más funciones según lo que vaya haciendo falta.
+BrodaMarket está pensada para que comprar y vender ítems sea **simple y directo**, sin vueltas raras. Todo funciona en tiempo real y la interfaz es liviana, clara y fácil de usar.
 
-¿Qué puedes hacer con BrodaMarket?
+La idea es básica: **listar, buscar, comprar y vender ítems**, y poco a poco ir sumando más funciones según lo que vaya haciendo falta.
 
-Marketplace en tiempo real: ves los cambios al instante, sin refrescar ni esperar.
-Vendedores y compradores ONLINE: solo aparecen ítems de gente que está conectada en la app. Si no está online, no se muestra. Así sabes que el vendedor realmente está ahí.
-Agrupación de ítems: los ítems con el mismo nombre se agrupan en una sola carta, aunque tengan stats distintos. Nada de cientos de ítems repetidos llenando la pantalla.
-Login con Google: entras con tu cuenta Google y listo.
-Idiomas: puedes cambiar entre español e inglés presionando el recuadro GB / ES.
-Ítems personalizados: arma tus ítems según sus stats reales. Si te dropean uno con el mismo nombre pero stats distintos, puedes modificarlos en tiempo real dentro de la app.
-Descuentos por cantidad: ofrece descuentos si vendes varias unidades.
-Buy Orders: publica lo que quieres comprar y deja que otros te vendan lo que andas buscando.
-Historial completo: revisa todas tus compras, ventas y precios cuando quieras.
-Filtros de búsqueda: busca por nombre, categoría, stats y más.
-Notificaciones: la app te avisa cuando compras, vendes o pasa algo importante.
-Sistema de advertencias: 3 strikes antes de que la cuenta sea deshabilitada.
-Ítems nuevos: se agregan constantemente.
-Búsqueda rápida: desde la pantalla principal puedes filtrar usando los recuadros disponibles.
-Cancelación de ventas: vendedores y compradores pueden cancelar, y el ítem vuelve automáticamente al mercado.
-Sistema de presencia online para vendedores y compradores.
-Sistema de cola (queue) para momentos específicos.
-Secciones claras: “Mis ítems”, “Ventas” y “Compras”.
-Al presionar un ítem vendido o comprado, se copia automáticamente el /w Nombre para escribir fácil dentro del juego.
-Sistema de TRANS ID: puedes escribirlo en el chat para que comprador o vendedor sepa exactamente de qué transacción se trata.
-Y más cosas que irán llegando con el tiempo…
+---
 
-FAQ
-¿Cómo vender?
+## ✨ Funcionalidades
 
-Si quieres vender tu ítem, ve al botón “Vender”. Aparecerá un buscador y debes escribir siempre comenzando por la primera palabra del ítem.
-Ejemplo:
-✔ Correcto: Greater Life Potion → escribir Greater
-✖ Incorrecto: comenzar con Potion
+### 🔥 Funciones principales
 
-Si el ítem está en la base de datos, podrás seleccionarlo.
-Si tiene el mismo nombre pero stats distintos, puedes usar la opción “¿Stats diferentes? Cámbialos aquí”, modificar los stats, agregarlos y presionar APLICAR para guardarlos.
-Luego eliges tu personaje (por ahora está limitado a uno solo) y el precio.
-Después puedes agregar descuentos por cantidad. La primera casilla indica desde cuántos ítems se activa el descuento y las dos siguientes el porcentaje.
-Ejemplo: al comprar 5 o más, 5% de descuento.
-Presionas Publicar y el ítem queda disponible en tiempo real.
+1. **Marketplace en tiempo real**
+   Ves los cambios al instante, sin refrescar ni esperar.
+
+2. **Vendedores y compradores ONLINE**
+   Solo aparecen ítems de usuarios que están conectados en la app.
+   Si no están online, el ítem no se muestra.
+
+3. **Agrupación de ítems**
+   Los ítems con el mismo nombre se agrupan en una sola carta, aunque tengan stats distintos.
+   Nada de cientos de ítems repetidos llenando la pantalla.
+
+4. **Login con Google**
+   Entras con tu cuenta Google y listo.
+
+5. **Idiomas**
+   Cambia entre **español** e **inglés** usando el botón **GB / ES**.
+
+6. **Ítems personalizados**
+   Puedes modificar los stats en tiempo real si el ítem tiene el mismo nombre pero stats diferentes.
+
+7. **Descuentos por cantidad**
+   Ofrece descuentos al vender varias unidades.
+
+8. **Buy Orders**
+   Publica lo que quieres comprar y deja que otros te vendan lo que andas buscando.
+
+9. **Historial completo**
+   Revisa todas tus compras, ventas y precios cuando quieras.
+
+10. **Filtros de búsqueda**
+    Busca por nombre, categoría, stats y más.
+
+11. **Notificaciones**
+    La app te avisa cuando compras, vendes o pasa algo importante.
+
+12. **Sistema de advertencias**
+    3 strikes antes de que la cuenta sea deshabilitada.
+
+13. **Ítems nuevos**
+    Se agregan constantemente.
+
+14. **Búsqueda rápida**
+    Desde la pantalla principal puedes filtrar usando los recuadros disponibles.
+
+15. **Cancelación de ventas**
+    Vendedores y compradores pueden cancelar, y el ítem vuelve automáticamente al mercado.
+
+16. **Sistema de presencia online**
+    Para vendedores y compradores.
+
+17. **Sistema de cola (queue)**
+    Para momentos específicos.
+
+18. **Secciones claras**
+
+    * **Mis ítems**
+    * **Ventas**
+    * **Compras**
+
+19. **Acceso rápido a whisper**
+    Al presionar un ítem vendido o comprado se copia automáticamente
+    `/w Nombre` para escribir fácil dentro del juego.
+
+20. **Sistema de TRANS ID**
+    Puedes escribir el ID en el chat para que comprador o vendedor sepa exactamente de qué transacción se trata.
+
+21. **Más funciones en camino…**
+
+---
+
+## ❓ FAQ
+
+### 1️⃣ ¿Cómo vender?
+
+Sigue estos pasos:
+
+1. Presiona el botón **“Vender”**.
+
+2. Aparecerá un buscador.
+   Debes escribir siempre comenzando con la **primera palabra del ítem**.
+
+   **Ejemplo:**
+
+   * ✔ Correcto: `Greater Life Potion` → escribir **Greater**
+   * ✖ Incorrecto: comenzar con **Potion**
+
+3. Si el ítem está en la base de datos, podrás seleccionarlo.
+
+4. Si el ítem tiene el mismo nombre pero **stats distintos**, usa la opción:
+   **“¿Stats diferentes? Cámbialos aquí”**
+
+   * Modifica los stats
+   * Agrégalos
+   * Presiona **APLICAR** para guardarlos
+
+5. Elige tu personaje *(por ahora, solo uno)*.
+
+6. Define el precio.
+
+7. *(Opcional)* Agrega **descuentos por cantidad**:
+
+   * Primera casilla: desde cuántos ítems se activa el descuento
+   * Siguientes casillas: porcentaje de descuento
+     **Ejemplo:** comprar **5 o más** → **5% de descuento**
+
+8. Presiona **Publicar**.
+   El ítem queda disponible **en tiempo real**.
+
+---
+
+### 2️⃣ ¿Qué es un Buyer Order?
+
+Funciona casi igual que vender, pero en este caso:
+
+* Publicas un ítem que **quieres comprar**
+* Otros jugadores pueden ofrecerte ese ítem
+
+---
+
+### 3️⃣ ¿Dónde reviso mis ventas y compras?
+
+* Cada vez que compras o vendes, recibes una notificación
+* Puedes revisarlas en:
+
+  * **Ventas**
+  * **Compras**
+
+---
+
+### 4️⃣ ¿Puedo hacer zoom en la app?
+
+Sí 👍
+Mantén presionado **CTRL + rueda del mouse**.
+
+---
+
+### 5️⃣ ¿Puedo usar más de un personaje?
+
+* Por ahora solo se permite **un personaje**
+* Más adelante se podrá habilitar la opción de múltiples personajes si es necesario
+
+---
+
+### 6️⃣ ¿Eres el broda que compra y vende gemas?
+
+Sí 😄
+Quizás me viste en el chat general comprando y vendiendo.
+Hice esta app para toda mi peep.
+
+---
+
+### 7️⃣ ¿Cuesta mucho mantener la app?
+
+La app es **100% gratuita** y **sin fines de lucro**, pero cualquier aporte ayuda a mantener los servidores y a seguir mejorando este mercado que hice para ustedes con todo mi ❤️
+
+Si quieres apoyar el proyecto, puedes hacerlo a través de mi **link de Ko-fi**.
+
+**Gracias de verdad, my broda.**
+
+---
 
 
-¿Qué es un Buyer Order?
-Es básicamente lo mismo que vender, pero en este caso publicas un ítem que quieres comprar, para que otros te oferten.
 
-¿Dónde reviso mis ventas y compras?
-Cada vez que compras o vendes, te llega una notificación en los botones de Ventas y Compras.
-
-¿Puedo hacer zoom en la app?
-Sí. Mantén presionado CTRL + rueda del mouse.
-
-¿Puedo usar más de un personaje?
-Por ahora solo se permite uno. Más adelante puedo habilitar la opción de múltiples personajes si hace falta.
-
-¿Eres el broda que compra y vende gemas?
-Sí 😄Quizás me viste en el chat general comprando y vendiendo. Hice esta app para toda mi peep.
-
-
-¿Cuesta mucho mantener la app?
-La app es 100% gratuita y sin fines de lucro, pero cualquier aporte ayuda a mantener los servidores y a seguir mejorando este mercado que hice para ustedes con todo mi ❤️
-Si quieres apoyar, puedes hacerlo a través de mi link de Ko-fi.
-Gracias de verdad, my broda.
