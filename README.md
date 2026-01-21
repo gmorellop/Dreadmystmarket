@@ -169,12 +169,17 @@ You can support via **Ko-fi**.
 **Thank you for real, my broda.**
 
 ---
-https://i.imgur.com/B6OL6RE.png
-![https://i.imgur.com/0eztHkR.png](https://i.imgur.com/B6OL6RE.png)
-![https://imgur.com/ZhlEuf8](https://i.imgur.com/ZhlEuf8.png)
-![https://i.imgur.com/ErbRsJu.png](https://i.imgur.com/ErbRsJu.png)
+
+![[https://i.imgur.com/B6OL6RE.png](https://i.imgur.com/Zqim0xc.png)
+!https://i.imgur.com/ZhlEuf8.png](https://i.imgur.com/czhHzeg.png)
+![https://i.imgur.com/ErbRsJu.png](https://i.imgur.com/uDlUlMQ.png)
 
 ________________ ESPAÑOL_____________________
+
+!https://i.imgur.com/Zqim0xc.png](https://i.imgur.com/B6OL6RE.png)
+!https://i.imgur.com/ZhlEuf8.png](https://i.imgur.com/czhHzeg.png)
+![https://i.imgur.com/ErbRsJu.png](https://i.imgur.com/uDlUlMQ.png)
+
 
 # 🛒 BrodaMarket
 
