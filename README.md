@@ -1,6 +1,18 @@
 ![BRODA MARKET](https://i.imgur.com/l1BeVwT.png)
 
 
+**IMPORTANT**
+Before Download!
+
+Because the application is not digitally signed, some Windows browsers and VirusTotal may flag it as suspicious (like Bkav Pro - Detected as W32.AIDetectMalware the only one with high false positives). 
+However, the app is completely clean and does not contain any malware or malicious files. Since this is a free application for all Dreadmyst community, I do not plan to purchase a code-signing certificate, as they are expensive.
+So if you decide to download it, feel free to enjoy an app made with a lot of love for the community. <3
+
+Peace, my peeps!
+
+VIRUSTOTAL: https://www.virustotal.com/gui/file/c19120546391f2eed2767b4e188edd2145b8cd390dfb72796017e56f294875fa
+
+
 
 ______________ENGLISH__________
 
