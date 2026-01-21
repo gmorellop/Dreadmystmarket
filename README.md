@@ -4,11 +4,6 @@
 
 ______________ENGLISH__________
 
-Perfecto 👍
-Aplico **exactamente ese criterio de Markdown para README de GitHub** y te dejo el contenido **ordenado, navegable y claro**, usando **encabezados, listas, negritas y saltos de línea**, tal como GitHub lo interpreta.
-
----
-
 # 🛒 BrodaMarket
 
 **Heey, BRODAS!** 👋
@@ -174,18 +169,12 @@ You can support via **Ko-fi**.
 **Thank you for real, my broda.**
 
 ---
- arriba para visitantes rápidos 👌
-
-
-![https://imgur.com/0eztHkR](https://i.imgur.com/0eztHkR.png)
+https://i.imgur.com/B6OL6RE.png
+![https://i.imgur.com/0eztHkR.png](https://i.imgur.com/B6OL6RE.png)
 ![https://imgur.com/ZhlEuf8](https://i.imgur.com/ZhlEuf8.png)
 ![https://i.imgur.com/ErbRsJu.png](https://i.imgur.com/ErbRsJu.png)
 
 ________________ ESPAÑOL_____________________
-Perfecto 👌
-Aquí tienes **todo el contenido estructurado en español**, **aplicando Markdown para README de GitHub**, con encabezados, listas, negritas y saltos de línea claros, tal como GitHub lo renderiza.
-
----
 
 # 🛒 BrodaMarket
 
