@@ -167,8 +167,7 @@ The idea is basic: **list, search, buy, and sell items**, and slowly add more fe
 
 ### 5️⃣ Can I use more than one character?
 
-* Currently **one character only**
-* Multiple characters may be added later
+* Currently, up to 3 characters that can be deleted**
 
 ---
 
@@ -180,7 +179,7 @@ This app was made for the whole peep.
 
 ---
 
-### 7️⃣ Does it cost a lot to maintain the app?
+### 7️⃣ Is it really free?
 
 * **100% free**
 * **Non-profit**
@@ -359,8 +358,7 @@ Mantén presionado **CTRL + rueda del mouse**.
 
 ### 5️⃣ ¿Puedo usar más de un personaje?
 
-* Por ahora solo se permite **un personaje**
-* Más adelante se podrá habilitar la opción de múltiples personajes si es necesario
+* Se permite la creación de **3 personajes** que puedes borrar y crear más.
 
 ---
 
