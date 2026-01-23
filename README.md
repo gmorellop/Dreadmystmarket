@@ -3,24 +3,20 @@
 ENGLISH_
 
 **IMPORTANT**
-Before Download!
 
-Because the application is not digitally signed, some Windows browsers and VirusTotal may flag it as suspicious (like Bkav Pro - Detected as W32.AIDetectMalware the only one with high false positives). 
-However, the app is completely clean and does not contain any malware or malicious files. Since this is a free application for all Dreadmyst community, I do not plan to purchase a code-signing certificate, as they are expensive.
-So if you decide to download it, feel free to enjoy an app made with a lot of love for the community. <3
+This is a free application for all Dreadmyst community, So if you decide to download it, feel free to enjoy an app made with a lot of love for the community. <3
 
 Peace, my peeps!
 
-VIRUSTOTAL: https://www.virustotal.com/gui/file/c19120546391f2eed2767b4e188edd2145b8cd390dfb72796017e56f294875fa
+VIRUSTOTAL: https://www.virustotal.com/gui/file/e08af3a7188a337902a7319f64d2987a646b57cafb8814e6645749035c832816?nocache=1
 ___
 SPANISH_
 
 **¡IMPORTANTE ANTES DE DESCARGAR!**
 
-Debido a que la aplicación no está firmada digitalmente, algunos navegadores de Windows y VirusTotal pueden marcarla como sospechosa (como Bkav Pro, que la detecta como *W32.AIDetectMalware*, siendo el único con un alto índice de falsos positivos). Sin embargo, la app está completamente limpia y no contiene ningún malware ni archivos maliciosos.
-Como se trata de una aplicación gratuita para toda la comunidad de Dreadmyst, no planeo comprar un certificado de firma de código, ya que son costosos. Así que, si decides descargarla, siéntete libre de disfrutar una app hecha con mucho amor para la comunidad. <3
+Es una aplicación gratuita para toda la comunidad de Dreadmyst. Siéntete libre de disfrutar una app hecha con mucho amor para la comunidad. <3
 
-VIRUSTOTAL: https://www.virustotal.com/gui/file/c19120546391f2eed2767b4e188edd2145b8cd390dfb72796017e56f294875fa
+VIRUSTOTAL: https://www.virustotal.com/gui/file/e08af3a7188a337902a7319f64d2987a646b57cafb8814e6645749035c832816?nocache=1
 
 ===================================================== O ===========================================================
 
