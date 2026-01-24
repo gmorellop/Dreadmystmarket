@@ -125,7 +125,7 @@ The idea is basic: **list, search, buy, and sell items**, and slowly add more fe
 
 4. If stats differ, click **“Different stats? Change them here”**, edit and press **APPLY**.
 
-5. Choose your character *(currently limited to one)*.
+5. Choose your character .
 
 6. Set the price.
 
@@ -311,7 +311,7 @@ Sigue estos pasos:
    * Agrégalos
    * Presiona **APLICAR** para guardarlos
 
-5. Elige tu personaje *(por ahora, solo uno)*.
+5. Elige tu personaje.
 
 6. Define el precio.
 
