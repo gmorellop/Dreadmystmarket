@@ -8,7 +8,7 @@ This is a free application for all Dreadmyst community, So if you decide to down
 
 Peace, my peeps!
 
-VIRUSTOTAL: https://www.virustotal.com/gui/file/e08af3a7188a337902a7319f64d2987a646b57cafb8814e6645749035c832816?nocache=1
+VIRUSTOTAL: [https://www.virustotal.com/gui/file/e08af3a7188a337902a7319f64d2987a646b57cafb8814e6645749035c832816?nocache=1](https://www.virustotal.com/gui/file/a6147680a0b98f8b0876abb6adf570bca8aa561fd3ceb88f5ec592e5dff196b8?nocache=1)
 ___
 SPANISH_
 
@@ -16,7 +16,7 @@ SPANISH_
 
 Es una aplicación gratuita para toda la comunidad de Dreadmyst. Siéntete libre de disfrutar una app hecha con mucho amor para la comunidad. <3
 
-VIRUSTOTAL: https://www.virustotal.com/gui/file/e08af3a7188a337902a7319f64d2987a646b57cafb8814e6645749035c832816?nocache=1
+VIRUSTOTAL: [https://www.virustotal.com/gui/file/e08af3a7188a337902a7319f64d2987a646b57cafb8814e6645749035c832816?nocache=1](https://www.virustotal.com/gui/file/a6147680a0b98f8b0876abb6adf570bca8aa561fd3ceb88f5ec592e5dff196b8?nocache=1)
 
 ===================================================== O ===========================================================
 
