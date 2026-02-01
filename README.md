@@ -2,7 +2,7 @@
 
 ENGLISH_
 
-**IMPORTANT**
+
 
 This is a free application for all Dreadmyst community, access only through [brodamarket.com](https://brodamarket.com/)
 Peace, my peeps!
@@ -10,7 +10,7 @@ Peace, my peeps!
 ___
 SPANISH_
 
-**¡IMPORTANTE ANTES DE DESCARGAR!**
+
 
 Es una aplicación gratuita para toda la comunidad de Dreadmyst. Ingresa exclusivamente por [brodamarket.com](https://brodamarket.com/)
 
